@@ -90,7 +90,7 @@ WHERE start_station_id IN
 ```
 
 ## Results
-![Average Trip Duration by Station](URL_to_your_image)
+![Average Trip Duration by Station](https://github.com/SoliuSaka/NYC-citi-bike-analysis/blob/main/AVR%20trip%20duration%20by%20stations.jpg)
 ![Comparison of Trip Durations](URL_to_your_image)
 ![Longest Mean Trip Durations](URL_to_your_image)
 
