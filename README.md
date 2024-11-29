@@ -87,12 +87,16 @@ WHERE start_station_id IN
         ORDER BY avg_duration DESC
         LIMIT 5
     );
+
 ```
 
 ## Results
+1. Average Trip Duration by Station
 ![Average Trip Duration by Station](https://github.com/SoliuSaka/NYC-citi-bike-analysis/blob/main/AVR%20trip%20duration%20by%20stations.jpg)
-![Comparison of Trip Durations](URL_to_your_image)
-![Longest Mean Trip Durations](URL_to_your_image)
+2. Comparison of Trip Durations
+![Comparison of Trip Durations](https://github.com/SoliuSaka/NYC-citi-bike-analysis/blob/main/comparing%20trip%20duration%20by%20station.jpg)
+3. Longest Mean Trip Durations
+![Longest Mean Trip Durations](https://github.com/SoliuSaka/NYC-citi-bike-analysis/blob/main/Longest%20Mean%20trip%20duration.jpg)
 
 ## Conclusions
 - The analysis of Citi Bike trip data in New York City reveals significant patterns in bike usage, highlighting the potential for a bike-sharing system to contribute to the city's sustainability goals. The average trip durations and the identification of key stations indicate a strong demand for cycling infrastructure and services.
